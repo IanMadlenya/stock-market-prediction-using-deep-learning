@@ -5,10 +5,10 @@ This is a third-year project at the Department of Electronic & Electrical Engine
 * [My website about stock market & tweets] (https://zhedongzheng.github.io)
 
 * Predictors
-![predictors](https://github.com/zhedongzheng/ucl-final-year-project/blob/master/common/predictors.png)
+![predictors](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/features.png)
 
 * Collecting data
-![data](https://github.com/zhedongzheng/ucl-final-year-project/blob/master/common/collect-data.png)
+![data](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/data.png)
 
 ## How to run the code?
 * To run all the code, you need to pre-install the following libraries in Python 3:
@@ -18,11 +18,11 @@ This is a third-year project at the Department of Electronic & Electrical Engine
   * [python-twitter] (https://github.com/bear/python-twitter)
   * [tensorflow] (https://www.tensorflow.org/)
   * these libraries can all be easily installed through either `pip` or `conda`
-* To run any code, you just need to download the folder "ucl-final-year-project", and cd into the folder, then run the code. For example, if you want to run `twi_sen_vs_price.py` in the folder `../ucl-final-year-project/plot`, this is an example of command line code (windows):
+* To run any code, you just need to download the folder "source-code", and cd into the folder, then run the code. For example, if you want to run `twi_sen_vs_price.py` in the folder `../source-code/plot`, this is an example of command line code (windows):
 	
 	```
 	d:
-	cd D:\morior-invictus\python-code\console\ucl-final-year-project\plot 
+	cd D:\morior-invictus\python-code\console\source-code\plot 
 	python twi_sen_vs_price.py
 	```
 	Then you will see the result
