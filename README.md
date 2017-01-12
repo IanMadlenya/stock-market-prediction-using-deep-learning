@@ -22,7 +22,7 @@ This is a third-year project at the Department of Electronic & Electrical Engine
 	
 	```
 	d:
-	cd D:\morior-invictus\python-code\console\source-code\plot 
+	cd D:\..\source-code\plot 
 	python twi_sen_vs_price.py
 	```
 	Then you will see the result
