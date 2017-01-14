@@ -2,7 +2,7 @@
 ## What is this project about?
 This is a third-year project at the Department of Electronic & Electrical Engineering at University College London (UCL), supervised by Dr Miguel Rodrigues, named "Stock Market Prediction Using Deep Learning Techniques".
 
-* [My website about stock market & tweets] (https://zhedongzheng.github.io)
+* [My website about the correlation between the stock market and Twitter] (https://zhedongzheng.github.io)
 
 * Predictors
 ![predictors](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/features.png)
