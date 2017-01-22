@@ -18,7 +18,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
   * numpy, pandas, matplotlib, scikit-learn (basic suite, most people already have)
   * [pandas-datareader] (https://github.com/pydata/pandas-datareader) (for obtaining stock prices)
   * [opencv] (http://opencv.org/) (for images)
-  * [python-twitter] (https://github.com/bear/python-twitter) (for visiting Twitter API)
+  * [python-twitter] (https://github.com/bear/python-twitter) (for visiting Twitter api)
   * [tensorflow r0.12] (https://www.tensorflow.org/) (for advanced neural networks)
   * these libraries can all be easily installed through either `pip` or `conda`
 * To run any code, you just need to download the folder "source-code", and cd into the folder, then run the code. For example, if you want to run `twi_sen_vs_price.py` in the folder `../source-code/plot`, this is an example of command line code (windows):
