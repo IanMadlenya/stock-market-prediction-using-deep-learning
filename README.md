@@ -4,11 +4,8 @@ This is a research project at the Department of Electronic & Electrical Engineer
 
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
 
-* Predictors
-![predictors](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/features.png)
-
-* Collecting data
-![data](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/data.png)
+* Data
+![data](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/data.jpg)
 
 ## How to run the code?
 * To run all the code, you need to pre-install the following libraries in Python 3:
