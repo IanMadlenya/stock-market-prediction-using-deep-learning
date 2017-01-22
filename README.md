@@ -10,7 +10,6 @@ This is a research project at the Department of Electronic & Electrical Engineer
 		* Volume
 		* Sentiment
 		* Volume & Sentiment
-
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
 
 ## How to run the code?
