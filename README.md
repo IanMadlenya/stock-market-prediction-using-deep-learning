@@ -4,7 +4,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
 
 * Output data: next-day stock price trend (1 for rise, 0 for not rise)
 * Input data
-	* past price series (this usually generate around 50% predicting accuracy, which is not desirable)
+	* past price series (this generates about 50% predicting accuracy, which is not desirable)
 		* Expressed in arrays (traditional)
 		* Expressed in images (innovative)
 	* Twitter data (this can boost predicting accuracy because it is more informative)
