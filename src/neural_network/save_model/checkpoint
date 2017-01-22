@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\morior-invictus\\coding\\python-code\\console\\stock-market-prediction-using-deep-learning\\neural_network\\save_model\\rnn.ckpt"
+all_model_checkpoint_paths: "D:\\morior-invictus\\coding\\python-code\\console\\stock-market-prediction-using-deep-learning\\neural_network\\save_model\\rnn.ckpt"
