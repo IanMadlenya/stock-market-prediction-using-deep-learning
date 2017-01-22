@@ -2,11 +2,12 @@
 ## What is this project about?
 This is a research project at the Department of Electronic & Electrical Engineering at University College London (UCL), supervised by Dr Miguel Rodrigues, named "Stock Market Prediction Using Deep Learning Techniques".
 
+* Output data: next-day stock price trend (1 for rise, 0 for not rise)
 * Input data
-	* past price series
+	* past price series (this usually generate around 50% predicting accuracy, which is not desirable)
 		* Expressed in arrays (traditional)
 		* Expressed in images (innovative)
-	* Twitter data
+	* Twitter data (this can boost predicting accuracy because it contains more information)
 		* Volume
 		* Sentiment
 		* Volume & Sentiment
