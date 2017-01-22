@@ -2,10 +2,9 @@
 ## What is this project about?
 This is a research project at the Department of Electronic & Electrical Engineering at University College London (UCL), supervised by Dr Miguel Rodrigues, named "Stock Market Prediction Using Deep Learning Techniques".
 
+* Input data
+<img src="https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/data.jpg" alt="data" style="height: 10%; width: 10%;"/>
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
-
-* Data
-![data](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/intro/data.jpg)
 
 ## How to run the code?
 * To run all the code, you need to pre-install the following libraries in Python 3:
