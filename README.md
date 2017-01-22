@@ -19,7 +19,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
   * [pandas-datareader] (https://github.com/pydata/pandas-datareader)
   * [opencv] (http://opencv.org/)
   * [python-twitter] (https://github.com/bear/python-twitter)
-  * [tensorflow] (https://www.tensorflow.org/)
+  * [tensorflow 0.12] (https://www.tensorflow.org/)
   * these libraries can all be easily installed through either `pip` or `conda`
 * To run any code, you just need to download the folder "source-code", and cd into the folder, then run the code. For example, if you want to run `twi_sen_vs_price.py` in the folder `../source-code/plot`, this is an example of command line code (windows):
 	
