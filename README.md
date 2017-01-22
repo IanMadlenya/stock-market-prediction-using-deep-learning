@@ -7,7 +7,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
 	* past price series (this usually generate around 50% predicting accuracy, which is not desirable)
 		* Expressed in arrays (traditional)
 		* Expressed in images (innovative)
-	* Twitter data (this can boost predicting accuracy because it contains more information)
+	* Twitter data (this can boost predicting accuracy because it is more informative)
 		* Volume
 		* Sentiment
 		* Volume & Sentiment
