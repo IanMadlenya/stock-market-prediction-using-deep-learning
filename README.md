@@ -5,7 +5,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
 * Output data: next-day stock price trend (1 for rise, 0 for not rise)
 * Input data
 	* past price series (this can only generate about 50% predicting accuracy, because it carries little significant information)
-	* Twitter data related to stock (this can boost predicting accuracy because it carries more statistically significant information)
+	* characteristics of Twitter data related to stock (this can boost predicting accuracy because it carries more statistically significant information)
 		* daily volume of tweet messages
 		* daily average sentiment score of tweet messages
 		* daily volume & average sentiment score
