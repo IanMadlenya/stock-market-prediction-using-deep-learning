@@ -12,7 +12,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
 
 ## How to read the code?
-![project-folder](https://raw.githubusercontent.com/zhedongzheng/stock-market-prediction-using-deep-learning/master/util/project_folder.svg)
+![project-folder](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/util/project_folder.png)
 
 ## How to run the code?
 * To run all the code, you need to pre-install the following libraries in Python 3:
