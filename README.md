@@ -8,7 +8,6 @@ This is a research project at the Department of Electronic & Electrical Engineer
 	* characteristics of Twitter data related to stock (this can boost predicting accuracy because it carries more statistically-significant information)
 		* daily volume of tweet messages
 		* daily average sentiment score of tweet messages
-		* daily volume & average sentiment score (scaled)
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
 
 ## How to read the code?
