@@ -4,8 +4,8 @@ This is a research project at the Department of Electronic & Electrical Engineer
 
 * Output data: next-day stock price trend (1 for rise, 0 for not rise)
 * Input data
-	* past price series (this can only generate about 50% predicting accuracy, because it carries little significant information)
-	* characteristics of Twitter data related to stock (this can boost predicting accuracy because it carries more statistically significant information)
+	* past price series (this can only generate about 50% predicting accuracy, because it carries little statistically-significant information)
+	* characteristics of Twitter data related to stock (this can boost predicting accuracy because it carries more statistically-significant information)
 		* daily volume of tweet messages
 		* daily average sentiment score of tweet messages
 		* daily volume & average sentiment score (scaled)
@@ -22,4 +22,4 @@ This is a research project at the Department of Electronic & Electrical Engineer
   * [python-twitter] (https://github.com/bear/python-twitter) (for visiting Twitter api)
   * [tensorflow r0.12] (https://www.tensorflow.org/) (for advanced neural networks)
   * these libraries can all be easily installed through either `pip` or `conda`
-* To run any code, you just need to download the folder "src", and change directory into the folder in the command line, then run the code by type "python xxx.py"
+* To run any code, you just need to download the folder "src", and change directory into the folder in the command line, then run the code by type "python xx.py"
