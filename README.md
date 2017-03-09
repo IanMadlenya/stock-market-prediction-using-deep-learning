@@ -9,6 +9,7 @@ This is a research project at the Department of Electronic & Electrical Engineer
 		* daily volume of tweet messages
 		* daily average sentiment score of tweet messages
 * [My website about the correlation between stock market and Twitter] (https://zhedongzheng.github.io)
+![benchmark](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/util/benchmark.png)
 
 ## How to read the code?
 ![project-folder](https://github.com/zhedongzheng/stock-market-prediction-using-deep-learning/blob/master/util/project_folder.png)
